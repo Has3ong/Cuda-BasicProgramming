@@ -1,0 +1,2 @@
+﻿main.cu.obj : error LNK2019: cuEventSynchronize 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+c:\users\administrator\documents\visual studio 2015\Projects\gpuProgramming\x64\Debug\Section4.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
